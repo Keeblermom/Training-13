@@ -10,7 +10,7 @@
         - Courses
         - Sessions
         - Attendees
-        """,
+    """,
     'author': 'Odoo',
     
     'website': 'https://odoo.com',
