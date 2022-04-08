@@ -5,7 +5,7 @@
     </record>
     <record>
         <field id="only_active_modify" model="ir.rule">
-            <field name="name">Only active course can be modified</field>
+            <field name="name">Only active course can be modified </field>
             <field name="perm_read" eval="0"/>
             <field name="perm_write" eval="1"/>
             <field name="perm_create" eval="0"/>
